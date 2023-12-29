@@ -3,7 +3,9 @@ import React from "react";
 const App = () => {
   return (
     <>
-      <main></main>
+      <main>
+        <h1 className="text-blue-600">color</h1>
+      </main>
     </>
   );
 };
